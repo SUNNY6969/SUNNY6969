@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SUNNY6969
+- 👋 Hi, I’m @Sunny Shah
 - 👀 I’m interested in Programming, Ethical Hacking and Game Development
 - 🌱 I’m currently learning full stack web development course on udemy
 - 💞️ I’m looking to collaborate on nothing just solo
